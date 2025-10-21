@@ -105,5 +105,5 @@ Apasionado por aprender nuevas tecnologías y aplicarlas en proyectos reales.
 ---
 
 <p align="center">
-*"El aprendizaje constante y la disciplina aplicada son la clave para la innovación tecnológica."*
+"El aprendizaje constante y la disciplina aplicada son la clave para la innovación tecnológica."
 </p>
