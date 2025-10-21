@@ -91,18 +91,7 @@ Apasionado por aprender nuevas tecnologías y aplicarlas en proyectos reales.
 
 ---
 
-<!-- ================== Proyectos Destacados ================== -->
-## 🚀 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|------------|------------|
-| [Portafolio Profesional](https://github.com/XiaoMendez/portfolio) | Portafolio web mostrando proyectos y experiencia | React, Tailwind, Vite |
-| [App de Tareas](https://github.com/XiaoMendez/todo-app) | Aplicación de gestión de tareas con autenticación | React, Node.js, Express, MongoDB |
-| [Blog Dinámico](https://github.com/XiaoMendez/blog) | Blog con panel administrativo y optimización SEO | Next.js, Tailwind, Firebase |
-| [E-commerce Demo](https://github.com/XiaoMendez/ecommerce) | Tienda online con carrito, pagos simulados y panel de administración | React, Node.js, Stripe, MongoDB |
-| [API RESTful](https://github.com/XiaoMendez/rest-api) | API con autenticación JWT y documentación Swagger | Node.js, Express, MongoDB |
-
----
 
 <!-- ================== Contact ================== -->
 ## 📫 Contacto
