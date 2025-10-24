@@ -23,13 +23,12 @@
 
 <!-- ================== 💠 SOBRE MÍ ================== -->
 ## 🧠 Sobre mí
-✨ Soy un **desarrollador web en aprendizaje** que busca crear proyectos modernos, visualmente atractivos y funcionales.  
-🚀 Me motiva **aprender tecnologías nuevas**, experimentar con **interfaces interactivas** y compartir conocimiento.  
+Soy un **desarrollador web en aprendizaje** que busca crear proyectos modernos, visualmente atractivos y funcionales.  
+Me motiva **aprender tecnologías nuevas**, experimentar con **interfaces interactivas** y compartir conocimiento.  
 
 🔹 Actualmente aprendiendo **React, Node.js, TypeScript y Tailwind**  
 🔹 Interesado en **bases de datos, desarrollo full stack y CI/CD**  
 🔹 Me enfoco en la **calidad, escalabilidad y buenas prácticas**  
-🔹 Busco proyectos colaborativos e innovadores  
 
 ---
 
