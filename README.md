@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32">
 </h1>
 
-<h3 align="center">💡 Desarrollador Web | Aprendiz Full Stack </h3>
+<h3 align="center"> Desarrollador Web | Aprendiz Full Stack </h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=XiaoMendez.XiaoMendez" alt="Visitors Badge"/>
@@ -22,7 +22,7 @@
 ---
 
 <!-- ================== 💠 SOBRE MÍ ================== -->
-## 🧠 Sobre mí
+##  Sobre mí
 Soy un **desarrollador web en aprendizaje** que busca crear proyectos modernos, visualmente atractivos y funcionales.  
 Me motiva **aprender tecnologías nuevas**, experimentar con **interfaces interactivas** y compartir conocimiento.  
 
@@ -33,7 +33,7 @@ Me motiva **aprender tecnologías nuevas**, experimentar con **interfaces intera
 ---
 
 <!-- ================== ⚙️ TECNOLOGÍAS ================== -->
-## ⚙️ Tecnologías
+##  Tecnologías
 
 ### Frontend
 <p align="center">
@@ -59,7 +59,7 @@ Me motiva **aprender tecnologías nuevas**, experimentar con **interfaces intera
 
 
 <!-- ================== 📊 ESTADÍSTICAS ================== -->
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XiaoMendez&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
@@ -73,7 +73,7 @@ Me motiva **aprender tecnologías nuevas**, experimentar con **interfaces intera
 ---
 
 <!-- ================== 🌐 CONTACTO ================== -->
-## 🌐 Mis Contactos
+## Mis Contactos
 
 <p align="center">
   <a href="mailto:xiaomendezli@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
