@@ -34,24 +34,24 @@
 ---
 
 <!-- ================== ⚙️ TECNOLOGÍAS ================== -->
-## ⚙️ Tecnologías que uso
+## ⚙️ Tecnologías
 
-### 🌐 Frontend
+### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro,figma" />
 </p>
 
-### 🧩 Backend
+### Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,docker" />
 </p>
 
-### 🗄️ Bases de Datos
+### Bases de Datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,sqlite" />
 </p>
 
-### 🧰 Herramientas
+### Herramientas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,unity,godot" />
 </p>
@@ -77,10 +77,8 @@
 ## 🌐 Mis Contactos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/xiaomendez/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
-  <a href="https://twitter.com/XiaoMendez" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="48" /></a>
-  <a href="mailto:TU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
-  <a href="https://TU_PORTFOLIO" target="_blank"><img src="https://skillicons.dev/icons?i=portfolio" height="48" /></a>
+  <a href="mailto:xiaomendezli@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
+  <a href="mailto:xiaomendeli@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" /></a>
 </p>
 
 ---
