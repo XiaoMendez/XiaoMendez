@@ -162,10 +162,6 @@
 <!-- ================== 👀 PROFILE VIEWS ================== -->
 <div align="center">
 
-### 👀 Visitas al Perfil
-
-<img src="https://komarev.com/ghpvc/?username=XiaoMendez&label=Visitas&color=7B5BF5&style=flat-square" alt="Profile views" />
-
 ### ⭐ Si te gusta mi trabajo, considera darle una estrella a mis repositorios
 
 <img src="https://img.shields.io/github/stars/XiaoMendez?style=social" alt="GitHub stars" />
