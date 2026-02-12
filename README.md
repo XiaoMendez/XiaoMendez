@@ -5,7 +5,6 @@
 
 <!-- ================== 📊 BADGES DINÁMICOS ================== -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=XiaoMendez&label=Profile%20Views&color=7B5BF5&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/XiaoMendez?label=Followers&style=for-the-badge&color=7B5BF5&labelColor=1a1b27" alt="followers" />
   <img src="https://img.shields.io/github/stars/XiaoMendez?label=Stars&style=for-the-badge&color=7B5BF5&labelColor=1a1b27" alt="stars" />
 </p>
