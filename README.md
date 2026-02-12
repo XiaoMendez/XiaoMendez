@@ -120,9 +120,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas de GitHub
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoMendez&theme=tokyonight&hide_border=true&background=0D1117&ring=7B5BF5&fire=7B5BF5&currStreakLabel=7B5BF5" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMendez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B5BF5&text_color=c9d1d9&langs_count=8" />
-
 </div>
 
 <!-- ================== 📈 CONTRIBUTION GRAPH ================== -->
