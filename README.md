@@ -120,7 +120,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas de GitHub
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoMendez&theme=tokyonight&hide_border=true&background=0D1117&ring=7B5BF5&fire=7B5BF5&currStreakLabel=7B5BF5" />
+
 </div>
+
 
 <!-- ================== 📈 CONTRIBUTION GRAPH ================== -->
 <div align="center">
