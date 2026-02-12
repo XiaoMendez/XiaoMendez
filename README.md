@@ -130,19 +130,6 @@
 
 </div>
 
----
-
-<!-- ================== 🏆 TROFEOS ================== -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Logros de GitHub
-
-<img src="https://github-profile-trophy.vercel.app/?username=XiaoMendez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
 <!-- ================== 📈 CONTRIBUTION GRAPH ================== -->
 <div align="center">
 
@@ -151,19 +138,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoMendez&bg_color=0D1117&color=7B5BF5&line=7B5BF5&point=c9d1d9&area=true&hide_border=true" width="100%" />
 
 </div>
-
----
-
-<!-- ================== 💭 QUOTE ================== -->
-<div align="center">
-
-## 💭 Frase del Día
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20aprendizaje%20constante%20y%20la%20disciplina%20aplicada%20son%20la%20clave%20para%20la%20innovaci%C3%B3n%20tecnol%C3%B3gica&author=Xiao%20M%C3%A9ndez" />
-
-</div>
-
----
 
 <!-- ================== 📫 CONTACTO ================== -->
 <div align="center">
@@ -176,12 +150,6 @@
   </a>
   <a href="https://linkedin.com/in/xiaomendez">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/xiaomendez">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/xiaomendez">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
 </p>
 
