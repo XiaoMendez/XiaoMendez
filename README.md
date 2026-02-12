@@ -3,11 +3,6 @@
 <!-- ================== 🎨 HERO BANNER ================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Xiao%20Méndez&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder&descSize=20&descAlignY=55&animation=twinkling" />
 
-<!-- ================== 🌟 TYPING ANIMATION ================== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7B5BF5&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Desarrollador+Web+Apasionado+%F0%9F%9A%80;Creando+Experiencias+Digitales+%E2%9C%A8;Aprendiendo+Cada+D%C3%ADa+%F0%9F%93%9A;Construyendo+el+Futuro+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
-
 <!-- ================== 📊 BADGES DINÁMICOS ================== -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=XiaoMendez&label=Profile%20Views&color=7B5BF5&style=for-the-badge" alt="Profile views" />
