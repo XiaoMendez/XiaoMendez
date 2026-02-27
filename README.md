@@ -15,13 +15,8 @@
   <a href="https://www.linkedin.com/in/xiao-m%C3%A9ndez-li-0446513b0/">
     <img src="https://img.shields.io/badge/LinkedIn-Xiao%20Méndez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://github.com/XiaoMendez">
-    <img src="https://img.shields.io/badge/GitHub-XiaoMendez-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
-<img src="https://img.shields.io/github/followers/XiaoMendez?label=Followers&style=flat-square&color=0A66C2&labelColor=1a1b27" alt="followers" />&nbsp;
-<img src="https://img.shields.io/github/stars/XiaoMendez?label=Stars&style=flat-square&color=0A66C2&labelColor=1a1b27" alt="stars" />
 
 </div>
 
@@ -107,10 +102,6 @@ Desarrollador web con enfoque en interfaces modernas, diseño UI/UX limpio y fun
 </a>
 
 <br/><br/>
-
-```
-💼 Disponible para colaborar en proyectos interesantes.
-```
 
 </div>
 
