@@ -1,178 +1,121 @@
+<!-- ══════════════════════════════════════════════════════════════
+     ✦  XIAO MÉNDEZ — GitHub Profile README
+     ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ================== 🎨 HERO BANNER ================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Xiao%20Méndez&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder&descSize=20&descAlignY=55&animation=twinkling" />
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Web%20Developer-LcIz36IQ5pWocBeCANRKxHJuzed2HP.png" width="100%" alt="Xiao Méndez — Web Development | UI-Focused Design | Cybersecurity & Networking Foundations" />
 
-<!-- ================== 📊 BADGES DINÁMICOS ================== -->
-<p>
-  <img src="https://img.shields.io/github/followers/XiaoMendez?label=Followers&style=for-the-badge&color=7B5BF5&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/github/stars/XiaoMendez?label=Stars&style=for-the-badge&color=7B5BF5&labelColor=1a1b27" alt="stars" />
-</p>
+<br/>
 
-<!-- ================== 🔗 SOCIAL LINKS ================== -->
 <p>
   <a href="mailto:xiaomendezli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    <img src="https://img.shields.io/badge/Email-xiaomendezli@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/xiao-m%C3%A9ndez-li-0446513b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Xiao%20Méndez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://github.com/XiaoMendez">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/xiao-m%C3%A9ndez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/GitHub-XiaoMendez-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<img src="https://img.shields.io/github/followers/XiaoMendez?label=Followers&style=flat-square&color=0A66C2&labelColor=1a1b27" alt="followers" />&nbsp;
+<img src="https://img.shields.io/github/stars/XiaoMendez?label=Stars&style=flat-square&color=0A66C2&labelColor=1a1b27" alt="stars" />
 
 </div>
 
+<br/>
 
-<div align="center">
+## Sobre Mí
 
-### 🎯 Enfoque Actual
+Desarrollador web con enfoque en interfaces modernas, diseño UI/UX limpio y fundamentos en ciberseguridad y redes. Me apasiona crear experiencias digitales que combinen funcionalidad con estética.
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60"><br>
-      <b>Desarrollo Frontend</b><br>
-      <sub>Interfaces modernas y responsivas</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60"><br>
-      <b>Backend & APIs</b><br>
-      <sub>Arquitecturas escalables</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"><br>
-      <b>Bases de Datos</b><br>
-      <sub>Diseño y optimización</sub>
-    </td>
+    <td width="33%" align="center"><strong>Frontend</strong><br/><sub>Interfaces modernas y responsivas</sub></td>
+    <td width="33%" align="center"><strong>Backend & APIs</strong><br/><sub>Arquitecturas escalables</sub></td>
+    <td width="33%" align="center"><strong>Bases de Datos</strong><br/><sub>Diseño y optimización</sub></td>
   </tr>
 </table>
 
-</div>
+---
+
+## Stack Tecnológico
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Bases de Datos & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-<!-- ================== 🛠️ TECH STACK ================== -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Stack Tecnológico
-
-</div>
-
-### 🎨 Frontend Development
+## Estadísticas
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoMendez&theme=default&hide_border=true&ring=6366F1&fire=EC4899&currStreakLabel=6366F1&sideLabels=333333&dates=888888&currStreakNum=333333&sideNums=333333" />
 
-</div>
+<br/><br/>
 
-### ⚙️ Backend Development
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-### 🗄️ Databases & Cloud
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-### 🔧 Tools & Platforms
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoMendez&bg_color=ffffff&color=6366F1&line=6366F1&point=EC4899&area=true&hide_border=true&area_color=EEF2FF" width="90%" />
 
 </div>
 
 ---
 
-<!-- ================== 📊 GITHUB STATS ================== -->
+## Conectemos
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estadísticas de GitHub
+<a href="mailto:xiaomendezli@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/xiao-m%C3%A9ndez-li-0446513b0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoMendez&theme=tokyonight&hide_border=true&background=0D1117&ring=7B5BF5&fire=7B5BF5&currStreakLabel=7B5BF5" />
+<br/><br/>
 
-</div>
-
-
-<!-- ================== 📈 CONTRIBUTION GRAPH ================== -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Actividad de Contribución
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaoMendez&bg_color=0D1117&color=7B5BF5&line=7B5BF5&point=c9d1d9&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<!-- ================== 📫 CONTACTO ================== -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Conectemos
-
-<p>
-  <a href="mailto:xiaomendezli@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/xiao-m%C3%A9ndez-li-0446513b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-### 💬 ¿Tienes un proyecto en mente?
-
-<p>
-  <img src="https://img.shields.io/badge/Disponible_para_colaborar-✅-brightgreen?style=for-the-badge" alt="Disponible" />
-</p>
+```
+💼 Disponible para colaborar en proyectos interesantes.
+```
 
 </div>
-
 
 ---
 
-<!-- ================== 👀 PROFILE VIEWS ================== -->
 <div align="center">
-
-### ⭐ Si te gusta mi trabajo, considera darle una estrella a mis repositorios
-
-<img src="https://img.shields.io/github/stars/XiaoMendez?style=social" alt="GitHub stars" />
-
-</div>
-
-<!-- ================== 🎨 FOOTER ================== -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&section=footer" />
-
-
-**© 2025 Xiao Méndez - Todos los derechos reservados**
-
+  <sub>Hecho con dedicación por <strong>Xiao Méndez</strong> · 2025</sub>
 </div>
