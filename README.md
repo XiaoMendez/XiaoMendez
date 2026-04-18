@@ -12,7 +12,7 @@
   <a href="mailto:xiaomendezli@gmail.com">
     <img src="https://img.shields.io/badge/Email-xiaomendezli@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/xiao-m%C3%A9ndez-li-0446513b0/">
+  <a href="www.linkedin.com/in/xiao-méndez">
     <img src="https://img.shields.io/badge/LinkedIn-Xiao%20Méndez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
 </p>
@@ -100,7 +100,7 @@ Desarrollador web con enfoque en interfaces modernas, diseño UI/UX limpio y fun
 <a href="mailto:xiaomendezli@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/xiao-m%C3%A9ndez-li-0446513b0/">
+<a href="www.linkedin.com/in/xiao-méndez">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
